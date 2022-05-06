@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Cryptocurrency/static/css/main.073c9b0a.css",
+    "main.js": "/React-Cryptocurrency/static/js/main.5d10abff.js",
+    "static/js/787.f2d7f378.chunk.js": "/React-Cryptocurrency/static/js/787.f2d7f378.chunk.js",
+    "static/media/logo.svg": "/React-Cryptocurrency/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Cryptocurrency/index.html",
+    "main.073c9b0a.css.map": "/React-Cryptocurrency/static/css/main.073c9b0a.css.map",
+    "main.5d10abff.js.map": "/React-Cryptocurrency/static/js/main.5d10abff.js.map",
+    "787.f2d7f378.chunk.js.map": "/React-Cryptocurrency/static/js/787.f2d7f378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5d10abff.js"
+  ]
+}
